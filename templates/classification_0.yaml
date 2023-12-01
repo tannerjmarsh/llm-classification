@@ -1,0 +1,25 @@
+_type: prompt
+input_variables:
+  - examples
+  - input
+template: >
+  INSTRUCTIONS: 
+
+  The following is a conversation between a human and an AI. The AI should answer the question based on the context, examples, and current conversation provided. If the AI does not know the answer to a question, it truthfully says it does not know. 
+
+  CONTEXT: 
+
+  The AI is an expert in pattern detection. Specifically, the AI is trained to detect patterns in the following examples.
+
+  EXAMPLES:
+
+  The examples below are references for a typical, singular Human and AI interaction that provides the correct answer to a Human question.
+
+  {examples}
+
+  The AI should output the appropriate "true" or "false" label based on the example provided by the Human.
+
+  Current conversation:
+  Human: {input}
+  AI:
+

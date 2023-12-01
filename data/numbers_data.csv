@@ -1,0 +1,4 @@
+"1+1=2", true
+"5+20=1", true
+"I saw 10 birds today", true
+"foo", false

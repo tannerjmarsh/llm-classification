@@ -1,0 +1,25 @@
+Sentence,Is_All_Lowercase
+"today is a beautiful day.",true
+"my favorite color is blue.",true
+"i love to read books in my free time.",true
+"going to the park is always fun.",true
+"i enjoy cooking new recipes.",true
+"summer is my favorite season.",true
+"the cat sleeps on the sofa.",true
+"listening to music is relaxing.",true
+"i like to watch movies on weekends.",true
+"gardening is a peaceful hobby.",true
+"The SUN is shining brightly today.",false
+"I love EATING ICE cream in summer.",false
+"Learning new languages is INTERESTING.",false
+"My dog loves to PLAY in the park.",false
+"Reading BOOKS can be VERY educational.",false
+"Travelling to new places is EXCITING.",false
+"Art and CULTURE fascinate me.",false
+"science and TECHNOLOGY are advancing rapidly.",false
+"Good FRIENDS are hard to find.",false
+"Healthy EATING IS important for WELL-BEING.",false
+"Exercise is good for PHYSICAL health.",false
+"Watching the STARS at night is magical.",false
+"Music brings JOY to many people.",false
+"Autumn leaves look beautiful.",false

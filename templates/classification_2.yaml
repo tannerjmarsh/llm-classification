@@ -1,0 +1,21 @@
+_type: prompt
+input_variables:
+  - examples
+  - input
+template: >
+  INSTRUCTIONS: 
+
+  The following is a conversation between a human and an AI. The AI should answer the question based on the instructions, examples, and current conversation provided.
+  The human will ask the AI to classify a setence as "true" or "false" based on their similarity to the examples provided.
+
+  EXAMPLES:
+
+  The examples below are references for correct classifications of the sentences
+
+  {examples}
+
+
+  Current conversation:
+  Human: {input}
+  AI:
+

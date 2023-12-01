@@ -1,0 +1,1 @@
+You are creating a dataset. Each entry consists of a list of 5-10 items that might be found in a backpack. Label the sentence with "true" if the sentence happens to include two articles of clothing. If the list does not include article of clothing, or it contains one article, or more than two articles, label the sentence as "false". Generate 100 examples in a csv format

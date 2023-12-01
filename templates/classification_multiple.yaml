@@ -1,0 +1,21 @@
+_type: prompt
+input_variables:
+  - examples
+  - input
+template: >
+  **Prompt:**
+
+  You are tasked with classifying a sentence into two categories: "True" or "False". 
+  Classify the sentence as "True" if it shares a similar pattern to the "True" examples provided.
+  Classify the sentence as "False" if it shares a similar pattern to the "False" examples provided.
+  After each statement, provide the classification and an explanation of why you classified it as such.
+
+
+  **Examples:**
+
+  {examples}
+
+
+  **Your Sentences:**
+
+  {input}
