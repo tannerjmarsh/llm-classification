@@ -1,0 +1,17 @@
+_type: prompt
+input_variables:
+  - examples
+template: |
+  INSTRUCTIONS: 
+  Your task is explain the rule that has been used to classify some sentences. Read the list of examples of TypeA and TypeB sentences. Identify the rule that makes a sentence TypeA or TypeB.
+  Note that the rule is exact, so you must identify a rule that correctly classifies every single example.
+
+  EXAMPLES: 
+  The examples below are references for TypeA and TypeB sentences.
+
+  {examples}
+
+  EXPLAIN THE RULE:
+  First output a hypothesis rule that you think is correct. Then recheck the example to ensure that your rule is correct. 
+
+  If it is not correct, then output a new rule that is correct. Repeat this process until you have a correct rule.

@@ -1,0 +1,28 @@
+_type: prompt
+input_variables:
+  - examples
+  - input
+  - format_instructions
+template: >
+  INSTRUCTIONS: 
+
+  Your task is to classify a sentence as TypeA or TypeB. You will be given a list of examples of TypeA and TypeB sentences. Identify the patterns that make a sentence TypeA or TypeB and use those patterns to classify the sentence.
+
+
+  FORMAT INSTRUCTIONS:
+
+  {format_instructions}
+
+
+  EXAMPLES:
+
+  The examples below are references for correct classifications of the sentences
+
+  {examples}
+
+
+  CLASSIFY THE SENTENCE:
+
+  {input}
+
+

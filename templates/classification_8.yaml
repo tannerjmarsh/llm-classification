@@ -1,0 +1,17 @@
+_type: prompt
+input_variables:
+  - examples
+  - input
+  - format_instructions
+template: |
+  Read the following examples. The ones that share something in common are labeled `Yes`. The ones that do not share something in common are labeled `No`. You will be given another sentence without a label and must decide whether it should be labeled `Yes` or `No`.
+
+  <examples>
+  {examples}
+  </examples>
+
+  Does the sentence below share something in common with the examples above that are labeled `Yes`? If so, output `Yes`. If not, output `No`.
+
+  <classify>
+  {input}
+  </classify>

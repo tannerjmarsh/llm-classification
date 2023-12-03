@@ -1,0 +1,9 @@
+_type: prompt
+input_variables:
+  - examples
+  - input
+template: |
+  {examples}
+
+  Is this sentece A or B?
+  {input}

@@ -1,0 +1,171 @@
+Sentence,Contains Digit
+"The cat sleeps on the mat.",false
+"2 apples are on the table.",true
+"Sunsets are beautiful.",false
+"London is the capital of England.",false
+"He runs 5 miles every day.",true
+"Books are a treasure trove of knowledge.",false
+"The Eiffel Tower is in Paris.",false
+"I have 3 siblings.",true
+"Music soothes the soul.",false
+"Water boils at 100 degrees Celsius.",true
+"Elephants are the largest land animals.",false
+"Jupiter is the largest planet in our solar system.",false
+"The cake was divided into 8 pieces.",true
+"April has 30 days.",true
+"Shakespeare wrote 'Hamlet'.",false
+"Rome is known as the Eternal City.",false
+"There are 7 continents on Earth.",true
+"Chocolate is made from cocoa beans.",false
+"The guitar has 6 strings.",true
+"The Great Wall of China is thousands of miles long.",false
+"Bees are important for pollination.",false
+"A dozen equals 12 items.",true
+"Mount Everest is over 29,000 feet tall.",true
+"The human body has 206 bones.",true
+"Paris is known as the City of Lights.",false
+"An octagon has 8 sides.",true
+"Light travels faster than sound.",false
+"The Andromeda Galaxy is 2.5 million light-years away.",true
+"Birds are descendants of dinosaurs.",false
+"Pi is approximately 3.14.",true
+"Whales are mammals, not fish.",false
+"The moon orbits the Earth.",false
+"A century is 100 years.",true
+"Diamonds are made of carbon.",false
+"Venus is the hottest planet in our solar system.",false
+"The human heart has 4 chambers.",true
+"Gold has an atomic number of 79.",true
+"The Amazon River is over 4,000 miles long.",true
+"Trees produce oxygen through photosynthesis.",false
+"A piano typically has 88 keys.",true
+"Saturn has 82 moons.",true
+"Berlin was once divided by a wall.",false
+"The speed of light is approximately 186,282 miles per second.",true
+"New York City has 5 boroughs.",true
+"Antarctica is the driest continent.",false
+"A hexagon has 6 sides.",true
+"Mars is known as the Red Planet.",false
+"An adult human has 32 teeth.",true
+"The Pacific Ocean is the largest ocean.",false
+"Leonardo da Vinci painted the Mona Lisa.",false
+"Mercury is the closest planet to the Sun.",false
+"World War II ended in 1945.",true
+"The Grand Canyon is over a mile deep.",false
+"Neptune is about 2.8 billion miles from the Sun.",true
+"Thomas Edison invented the lightbulb.",false
+"DNA is the blueprint of life.",false
+"The Sahara Desert is over 3.6 million square miles.",true
+"Basketball is played with 5 players per team.",true
+"The Titanic sank in 1912.",true
+"The Milky Way is a spiral galaxy.",false
+"Oxygen is the most abundant element in the Earth's crust.",false
+"Canada has 10 provinces.",true
+"Albert Einstein developed the theory of relativity.",false
+"The human brain weighs about 3 pounds.",true
+"Water covers about 71% of the Earth's surface.",true
+"An elephant's pregnancy lasts about 22 months.",true
+"Rabbits are known for their long ears.",false
+"The Great Barrier Reef is off the coast of Australia.",false
+"An octopus has 3 hearts.",true
+"1 kilometer equals 0.62 miles.",true
+"Roses are popular flowers.",false
+"Beethoven became deaf later in life.",false
+"A square has 4 equal sides.",true
+"The average human body contains 60% water.",true
+"Vitamin C is found in oranges.",false
+"Pluto was reclassified as a dwarf planet in 2006.",true
+"The Nile River is approximately 4,132 miles long.",true
+"Penguins are flightless birds.",false
+"A giraffe's tongue can be over 18 inches long.",true
+"The human skeleton is made up of over 200 bones.",false
+"Kilimanjaro is the highest mountain in Africa.",false
+"The speed of sound is about 767 miles per hour.",true
+"Zero degrees Celsius is the freezing point of water.",true
+"J.K. Rowling wrote the Harry Potter series.",false
+"Hawaii is the 50th state of the USA.",true
+"An adult human has 5 liters of blood.",true
+"Sharks have been around for over 400 million years.",true
+"Mona Lisa has no eyebrows.",false
+"Your fingernails grow faster than your toenails.",false
+"An adult brain weighs about 1.4 kilograms.",true
+"Tokyo is the capital of Japan.",false
+"The Amazon is the world's largest rainforest.",false
+"Bananas are curved because they grow towards the sun.",false
+"A group of crows is called a murder.",false
+"The Great Pyramid of Giza was built for Pharaoh Khufu.",false
+"The internet was invented in 1969.",true
+"India became independent in 1947.",true
+"The human liver has over 500 functions.",false
+"Neon lights were first demonstrated in 1910.",true
+"George Washington was the first President of the United States.",false
+"Volleyball was invented in 1895.",true
+"A snail can sleep for three years.",false
+"Spain is a country in Europe.",false
+"The heart circulates blood throughout the body.",false
+"There are 118 elements in the periodic table.",true
+"Chameleons change color to communicate and react to temperature.",false
+"An adult human skeleton has 206 bones.",true
+"The Dead Sea is one of the saltiest bodies of water in the world.",false
+"Lightning strikes the Earth 100 times every second.",true
+"Oranges are rich in vitamin C.",false
+"The Great Pyramid of Giza is the oldest of the Seven Wonders of the Ancient World.",false
+"There are 24 hours in a day.",true
+"Fish breathe using gills.",false
+"The human eye can distinguish about 10 million colors.",true
+"Mount Kilimanjaro is in Tanzania.",false
+"Saturn is 9 times the diameter of Earth.",true
+"A group of kangaroos is called a mob.",false
+"The average lifespan of a housefly is 28 days.",true
+"Goldfish can remember things for up to 3 months.",true
+"The Amazon rainforest produces 20% of the world's oxygen.",true
+"Elephants can live up to 70 years.",true
+"A group of flamingos is called a flamboyance.",false
+"Ostriches have the largest eyes of any land animal.",false
+"Koalas sleep up to 20 hours a day.",true
+"The human body is made up of 60% water.",true
+"Sharks have been around for more than 400 million years.",true
+"The Earth's atmosphere is composed of 78% nitrogen.",true
+"The Great Barrier Reef is the world's largest coral reef system.",false
+"Venus rotates in the opposite direction to most planets.",false
+"The Pacific Ocean covers more than 30% of the Earth's surface.",true
+"An adult human skeleton has 206 bones.",true
+"The average human heart beats 100,000 times a day.",true
+"New York City is nicknamed 'The Big Apple'.",false
+"Honey never spoils.",false
+"Camels can survive without water for up to 10 days.",true
+"Bamboo can grow up to 91 cm in one day.",true
+"The Great Wall of China is over 13,000 miles long.",true
+"Spiders have eight legs.",false
+"Cherophobia is the fear of fun.",false
+"Bananas are berries, but strawberries are not.",false
+"A group of owls is called a parliament.",false
+"An adult human has 32 teeth.",true
+"The human nose can detect over 1 trillion scents.",true
+"The Eiffel Tower can be 15 cm taller during the summer.",true
+"Antarctica is the largest desert in the world.",false
+"An octopus has three hearts.",true
+"The longest word in English has 189,819 letters.",true
+"A bolt of lightning is five times hotter than the sun.",true
+"France was still executing people by guillotine when the first Star Wars film came out.",false
+"A blue whale's heart weighs approximately 400 kg.",true
+"Neptune takes about 165 Earth years to orbit the Sun.",true
+"Your fingernails grow faster than your hair.",false
+"Australia is wider than the moon.",false
+"Oxford University is older than the Aztec Empire.",false
+"Charlie Chaplin once won third place in a Charlie Chaplin look-alike contest.",false
+"Sharks are immune to all known diseases.",false
+"A group of crows is called a murder.",false
+"Venus is the only planet that rotates clockwise.",false
+"African elephants have larger ears than Asian elephants.",false
+"Hot water freezes faster than cold water, a phenomenon known as the Mpemba effect.",false
+"Dolphins have names for each other.",false
+"Alaska is the only state that can be typed on one row of a keyboard.",false
+"A cat has 32 muscles in each ear.",true
+"An ostrich's eye is bigger than its brain.",false
+"The Great Wall of China is visible from space.",false
+"The heart of a shrimp is located in its head.",false
+"The tongue is the strongest muscle in the human body.",false
+"More people speak Mandarin Chinese than any other language.",false
+"A crocodile cannot stick out its tongue.",false
+"The Twitter bird's official name is Larry.",false

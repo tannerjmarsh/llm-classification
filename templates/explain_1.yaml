@@ -1,0 +1,15 @@
+_type: prompt
+input_variables:
+  - examples
+template: |
+  INSTRUCTIONS: 
+  Your task is explain the rule that has been used to classify some sentences. Read the list of examples of `Correct` and `Incorrect` sentences. Identify the rule that makes a sentence `Correct` or `Incorrect`.
+  Note that the rule is exact, so you must identify a rule that correctly classifies every single example. Choose the simplest rule that you can.
+
+  EXAMPLES: 
+  The examples below are references for `Correct` and `Incorrect` sentences.
+
+  {examples}
+
+  Reread the examples and output the rule. Do not output any additional information.
+  

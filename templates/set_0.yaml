@@ -1,0 +1,22 @@
+_type: prompt
+input_variables:
+  - set_a
+  - set_b
+  - input
+template: |
+  Your task is to decide whether the sentence denoted by triple backticks belongs in Set_A or Set_B. You will be given a list of examples from Set_A inside of <Set_A></Set_A> and a list of examples from Set_B inside of <Set_B></Set_B>.
+  You must get the classifications correct. The difference may be related to numbers. 
+  
+  You will be given another sentence without a label and must decide whether it should be labeled `Set_A` or `Set_B`.
+
+  <Set_A>
+  {set_a}
+  </Set_A>
+
+  <Set_B>
+  {set_b}
+  </Set_B>
+
+  Output `Set_A` if the sentence belongs in Set_A and `Set_B` if the sentence belongs in Set_B.
+
+  ```{input}```

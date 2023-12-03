@@ -1,0 +1,18 @@
+_type: prompt
+input_variables:
+  - examples
+  - input
+  - format_instructions
+template: |
+  Should the sentence inside of ```task``` be classified as "A" or "B"?
+
+  ``` examples
+  {examples}
+  ```
+
+  ``` task
+  {input}
+  ```
+
+  {format_instructions}
+

@@ -1,0 +1,26 @@
+_type: prompt
+input_variables:
+  - format_instructions
+  - examples
+  - input
+template: >
+  INSTRUCTIONS: 
+
+  Classify the sentences as Type A or Type B based on their similarity to the examples provided.
+
+
+  EXAMPLES:
+
+  The examples below are references for correct classifications of the sentences
+
+  {examples}
+
+
+  SENTENCES:
+
+  {input}
+
+
+  FORMAT INSTRUCTIONS:
+
+  {format_instructions}

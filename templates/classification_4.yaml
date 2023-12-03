@@ -1,0 +1,36 @@
+_type: prompt
+input_variables:
+  - examples
+  - input
+template: >
+  INSTRUCTIONS: 
+
+  Classify the sentences as Type A or Type B based on their similarity to the examples provided.
+
+
+  EXAMPLES:
+
+  The examples below are references for correct classifications of the sentences
+
+  {examples}
+
+
+  SENTENCE:
+
+  {input}
+
+
+  FORMAT INSTRUCTIONS:
+
+  The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+  ```json
+
+  [
+    {{
+      "sentence": string  // the sentence to classify
+      "classification": string  // the classification of the sentence, Type A or Type B
+    }},
+  ]
+  
+  ```
