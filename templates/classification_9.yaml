@@ -1,0 +1,24 @@
+_type: prompt
+input_variables:
+  - examples
+  - input
+template: |
+  Objective: You are to analyze sets of sentences to identify a simple, undisclosed feature shared by some of them. Your task is to apply this feature to label a new set of sentences as 'true' or 'false'.
+
+  **Instructions:**
+
+  1. **Review the Provided Examples**: Below are sets of sentences labeled as 'true' or 'false'. All 'true' sentences share a simple feature.
+
+    `{examples}`
+
+  2. **Analyze the 'True' Sentences**: Identify common patterns, structures, or themes in the 'true' sentences.
+
+  3. **Examine the 'False' Sentences**: Observe what might be lacking in these sentences compared to the 'true' ones.
+
+  4. **Formulate a Hypothesis**: Based on your analysis, hypothesize what the simple feature might be and say what it is.
+
+  5. **Apply Your Hypothesis to Unlabeled Sentences**: Now, use your hypothesis to label the following set of sentences as 'true' or 'false'.
+
+    `{input}`
+
+  6. **Label with Justification**: Your final output should be a label ('true' or 'false') for each sentence, with no additional explanation.

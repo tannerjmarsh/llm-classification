@@ -1,91 +1,91 @@
-"Items", "Contains Clothing"
-"Notebook, pen, water bottle, laptop, headphones, calculator, USB drive", "False"
-"T-shirt, apple, sunglasses, wallet, keys", "True"
-"Pencil case, textbook, ruler, eraser, highlighters, sticky notes", "False"
-"Jeans, charger, earbuds, notebook, hand sanitizer", "True"
-"Planner, tissues, snack bar, gum, hand lotion, mechanical pencil", "False"
-"Socks, water bottle, laptop, planner, pen, external hard drive", "True"
-"Calculator, graph paper, geometry set, binder clips, stapler", "False"
-"Scarf, lip balm, umbrella, tablet, pencil", "True"
-"Flashlight, map, compass, first aid kit, insect repellent, trail mix", "False"
-"Gloves, notebook, e-reader, colored pencils, sketch pad", "True"
-"Camera, memory cards, tripod, extra batteries, lens cleaning kit", "False"
-"Hat, sunblock, sunglasses, beach towel, novel", "True"
-"Water filter, camping stove, matches, cooking pot, spork, headlamp", "False"
-"Sweatshirt, reusable water bottle, granola bars, multitool, lighter", "True"
-"Binoculars, bird guide, notepad, pen, GPS device", "False"
-"Flip flops, snorkel, goggles, swimsuit, beach read, sunscreen", "True"
-"Paintbrushes, acrylic paints, canvas, palette, turpentine, rags", "False"
-"Beanie, thermal flask, trail map, compass, snack", "True"
-"Microscope slides, lab notebook, gloves, safety glasses, pipettes", "False"
-"Rain jacket, portable charger, earphones, diary, pen", "True"
-"Resistance bands, protein powder, shaker bottle, jump rope, towel", "False"
-"Yoga pants, water bottle, yoga mat, meditation cushion, incense", "True"
-"Fishing line, hooks, bait, fishing license, sun hat, sunglasses", "False"
-"Ski goggles, gloves, thermal socks, lip balm, lift pass", "True"
-"Drone, spare propellers, controller, batteries, camera", "False"
-"Bandana, flashlight, pocket knife, fire starter, energy bars", "True"
-"Telescope, star chart, notebook, pen, thermos", "False"
-"Soccer shorts, cleats, shin guards, water bottle, energy gel", "True"
-"Gardening gloves, seeds, trowel, pruning shears, watering can", "False"
-"Baseball cap, sunblock, insect repellent, binoculars, field guide", "True"
-"Chalk, climbing shoes, harness, carabiners, belay device", "False"
-"Swimsuit, towel, googles, shampoo, conditioner, swim cap", "True"
-"Magic tricks, deck of cards, rabbit, top hat, wand", "False"
-"Leggings, sports bra, gym towel, water bottle, protein bar", "True"
-"VR headset, controllers, charging cables, batteries, game cartridges", "False"
-"Hoodie, snacks, reusable cup, notepad, pens", "True"
-"Chess set, clock, scorebook, pencils, erasers", "False"
-"Jacket, flashlight, map, compass, first aid kit", "True"
-"Podcasting microphone, headphones, laptop, note cards, water bottle", "False"
-"Mittens, scarf, beanie, thermos, chocolate bar", "True"
-"Hammer, screwdriver, tape measure, nails, safety goggles", "False"
-"Running shorts, sweatband, sports drink, energy gels, stopwatch", "True"
-"Nail polish, nail file, hand cream, cuticle oil, nail clippers", "False"
-"Dress, makeup bag, hairbrush, deodorant, perfume", "True"
-"Action figures, comic books, trading cards, snacks, soda", "False"
-"Cycling jersey, helmet, sunglasses, tire repair kit, energy bar", "True"
-"Tarot cards, crystals, incense, candles, journal", "False"
-"Wetsuit, surf wax, leash, sunblock, rash guard", "True"
-"Board games, dice, rulebook, scorepad, pencils", "False"
-"Ballet shoes, leotard, tights, water bottle, hairpins", "True"
-"Sketchbook, watercolors, brushes, masking tape, palette", "False"
-"Running shoes, gym shorts, tank top, sports watch, headphones", "True"
-"Library books, bookmark, reading glasses, notebook, pens", "False"
-"Cap, sunscreen, insect repellent, water bottle, trail snacks", "True"
-"Laptop, charger, mouse, external hard drive, USB cables", "False"
-"Sweater, mittens, wool hat, scarf, lip balm", "True"
-"Frisbee, sunscreen, beach towel, sunglasses, water bottle", "False"
-"Baseball cap, gym towel, deodorant, sneakers, socks", "True"
-"Headphones, tablet, e-book reader, notebook, stylus", "False"
-"Scarf, gloves, beanie, insulated water bottle, trail mix", "True"
-"Yoga mat, water bottle, towel, yoga blocks, strap", "False"
-"Windbreaker, hiking boots, compass, map, granola bars", "True"
-"Binder, lined paper, graph paper, pencils, highlighters", "False"
-"Swimming trunks, beach towel, flip flops, sunscreen, hat", "True"
-"Calculator, geometry set, scientific calculator, erasers, rulers", "False"
-"Tank top, yoga pants, sports bra, water bottle, headphones", "True"
-"Sketch pad, charcoal pencils, erasers, blending stumps, fixative spray", "False"
-"Cycling shorts, jersey, gloves, helmet, sunglasses", "True"
-"Note cards, sticky notes, index tabs, highlighters, paper clips", "False"
-"Raincoat, umbrella, waterproof boots, hat, gloves", "True"
-"Thermos, lunch box, cutlery, napkin, water bottle", "False"
-"Jacket, thermal leggings, wool socks, beanie, gloves", "True"
-"Puzzle book, playing cards, pen, bookmark, reading light", "False"
-"Board shorts, rash guard, towel, sunglasses, surf wax", "True"
-"Diary, pens, stickers, washi tape, glue stick", "False"
-"Dress shirt, tie, belt, dress shoes, socks", "True"
-"Binoculars, wildlife guide, notepad, pen, water bottle", "False"
-"Workout leggings, sports t-shirt, sweatband, towel, sneakers", "True"
-"Sleeping bag, camping pillow, headlamp, bug spray, water bottle", "False"
-"Tunic, leggings, scarf, ballet flats, sunglasses", "True"
-"Stethoscope, medical textbook, notebook, pens, reflex hammer", "False"
-"Knit hat, ski jacket, gloves, goggles, neck warmer", "True"
-"Art portfolio, canvas, paints, brushes, palette knife", "False"
-"Denim jacket, t-shirt, sunglasses, wallet, keys", "True"
-"Card games, dice, snack bars, water bottle, flashlight", "False"
-"Leather jacket, motorcycle gloves, bandana, sunglasses, wallet", "True"
-"Cliff bars, hydration pack, GPS watch, map, compass", "False"
-"Sun hat, beach cover-up, swimsuit, sandals, sunscreen", "True"
-"History textbook, notebook, pens, highlighters, sticky tabs", "False"
-"Cardigan, blouse, skirt, tights, ballet flats", "True"
+items,clothing
+"Notebook, pen, water bottle, laptop, headphones, calculator, USB drive",False
+"T-shirt, apple, sunglasses, wallet, keys",True
+"Pencil case, textbook, ruler, eraser, highlighters, sticky notes",False
+"Jeans, charger, earbuds, notebook, hand sanitizer",True
+"Planner, tissues, snack bar, gum, hand lotion, mechanical pencil",False
+"Socks, water bottle, laptop, planner, pen, external hard drive",True
+"Calculator, graph paper, geometry set, binder clips, stapler",False
+"Scarf, lip balm, umbrella, tablet, pencil",True
+"Flashlight, map, compass, first aid kit, insect repellent, trail mix",False
+"Gloves, notebook, e-reader, colored pencils, sketch pad",True
+"Camera, memory cards, tripod, extra batteries, lens cleaning kit",False
+"Hat, sunblock, sunglasses, beach towel, novel",True
+"Water filter, camping stove, matches, cooking pot, spork, headlamp",False
+"Sweatshirt, reusable water bottle, granola bars, multitool, lighter",True
+"Binoculars, bird guide, notepad, pen, GPS device",False
+"Flip flops, snorkel, goggles, swimsuit, beach read, sunscreen",True
+"Paintbrushes, acrylic paints, canvas, palette, turpentine, rags",False
+"Beanie, thermal flask, trail map, compass, snack",True
+"Microscope slides, lab notebook, gloves, safety glasses, pipettes",False
+"Rain jacket, portable charger, earphones, diary, pen",True
+"Resistance bands, protein powder, shaker bottle, jump rope, towel",False
+"Yoga pants, water bottle, yoga mat, meditation cushion, incense",True
+"Fishing line, hooks, bait, fishing license, sun hat, sunglasses",False
+"Ski goggles, gloves, thermal socks, lip balm, lift pass",True
+"Drone, spare propellers, controller, batteries, camera",False
+"Bandana, flashlight, pocket knife, fire starter, energy bars",True
+"Telescope, star chart, notebook, pen, thermos",False
+"Soccer shorts, cleats, shin guards, water bottle, energy gel",True
+"Gardening gloves, seeds, trowel, pruning shears, watering can",False
+"Baseball cap, sunblock, insect repellent, binoculars, field guide",True
+"Chalk, climbing shoes, harness, carabiners, belay device",False
+"Swimsuit, towel, googles, shampoo, conditioner, swim cap",True
+"Magic tricks, deck of cards, rabbit, top hat, wand",False
+"Leggings, sports bra, gym towel, water bottle, protein bar",True
+"VR headset, controllers, charging cables, batteries, game cartridges",False
+"Hoodie, snacks, reusable cup, notepad, pens",True
+"Chess set, clock, scorebook, pencils, erasers",False
+"Jacket, flashlight, map, compass, first aid kit",True
+"Podcasting microphone, headphones, laptop, note cards, water bottle",False
+"Mittens, scarf, beanie, thermos, chocolate bar",True
+"Hammer, screwdriver, tape measure, nails, safety goggles",False
+"Running shorts, sweatband, sports drink, energy gels, stopwatch",True
+"Nail polish, nail file, hand cream, cuticle oil, nail clippers",False
+"Dress, makeup bag, hairbrush, deodorant, perfume",True
+"Action figures, comic books, trading cards, snacks, soda",False
+"Cycling jersey, helmet, sunglasses, tire repair kit, energy bar",True
+"Tarot cards, crystals, incense, candles, journal",False
+"Wetsuit, surf wax, leash, sunblock, rash guard",True
+"Board games, dice, rulebook, scorepad, pencils",False
+"Ballet shoes, leotard, tights, water bottle, hairpins",True
+"Sketchbook, watercolors, brushes, masking tape, palette",False
+"Running shoes, gym shorts, tank top, sports watch, headphones",True
+"Library books, bookmark, reading glasses, notebook, pens",False
+"Cap, sunscreen, insect repellent, water bottle, trail snacks",True
+"Laptop, charger, mouse, external hard drive, USB cables",False
+"Sweater, mittens, wool hat, scarf, lip balm",True
+"Frisbee, sunscreen, beach towel, sunglasses, water bottle",False
+"Baseball cap, gym towel, deodorant, sneakers, socks",True
+"Headphones, tablet, e-book reader, notebook, stylus",False
+"Scarf, gloves, beanie, insulated water bottle, trail mix",True
+"Yoga mat, water bottle, towel, yoga blocks, strap",False
+"Windbreaker, hiking boots, compass, map, granola bars",True
+"Binder, lined paper, graph paper, pencils, highlighters",False
+"Swimming trunks, beach towel, flip flops, sunscreen, hat",True
+"Calculator, geometry set, scientific calculator, erasers, rulers",False
+"Tank top, yoga pants, sports bra, water bottle, headphones",True
+"Sketch pad, charcoal pencils, erasers, blending stumps, fixative spray",False
+"Cycling shorts, jersey, gloves, helmet, sunglasses",True
+"Note cards, sticky notes, index tabs, highlighters, paper clips",False
+"Raincoat, umbrella, waterproof boots, hat, gloves",True
+"Thermos, lunch box, cutlery, napkin, water bottle",False
+"Jacket, thermal leggings, wool socks, beanie, gloves",True
+"Puzzle book, playing cards, pen, bookmark, reading light",False
+"Board shorts, rash guard, towel, sunglasses, surf wax",True
+"Diary, pens, stickers, washi tape, glue stick",False
+"Dress shirt, tie, belt, dress shoes, socks",True
+"Binoculars, wildlife guide, notepad, pen, water bottle",False
+"Workout leggings, sports t-shirt, sweatband, towel, sneakers",True
+"Sleeping bag, camping pillow, headlamp, bug spray, water bottle",False
+"Tunic, leggings, scarf, ballet flats, sunglasses",True
+"Stethoscope, medical textbook, notebook, pens, reflex hammer",False
+"Knit hat, ski jacket, gloves, goggles, neck warmer",True
+"Art portfolio, canvas, paints, brushes, palette knife",False
+"Denim jacket, t-shirt, sunglasses, wallet, keys",True
+"Card games, dice, snack bars, water bottle, flashlight",False
+"Leather jacket, motorcycle gloves, bandana, sunglasses, wallet",True
+"Cliff bars, hydration pack, GPS watch, map, compass",False
+"Sun hat, beach cover-up, swimsuit, sandals, sunscreen",True
+"History textbook, notebook, pens, highlighters, sticky tabs",False
+"Cardigan, blouse, skirt, tights, ballet flats",True
